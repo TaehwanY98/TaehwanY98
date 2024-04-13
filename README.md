@@ -6,6 +6,7 @@
 email: dbs1045@soongsil.ac.kr
 
 office: Soongsil University in South Korea
+[Link](https://dilab.ssu.ac.kr/)
 
 #### My Paper Link
 ##### 1. Dice-Coefficient Cross Entropy 기반 연합학습을 이용한 Lower-Grade Glioma 구획화
