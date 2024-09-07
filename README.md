@@ -27,7 +27,7 @@ Committee: Kips 한국정보처리학회
 
 Conference: Ask conference 2024 in South Korea
 
-[Link](https://kiss.kstudy.com/Detail/Ar?key=4096965)
+[Link]: https://kiss.kstudy.com/Detail/Ar?key=4096965
 
 github: https://github.com/masterOfSoongsilTYoon/WESAD_Clustered_FL
 
