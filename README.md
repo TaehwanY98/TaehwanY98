@@ -20,20 +20,28 @@ Link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737262
 
 github: https://github.com/masterOfSoongsilTYoon/Brain_Tumor_SegmentationByFL
 
-##### 2. 웨어러블 기기에서 군집화 연합학습을 통한 스트레스 및 감정탐지
+##### 2. 웨어러블 기기에서 군집화 연합학습을 통한 스트레스 및 감정탐지(우수논문 선정)
 (Stress Affect Detection At Wearable Devices Via Clustered Federated Learning)
 
 Committee: Kips 한국정보처리학회
 
 Conference: Ask conference 2024 in South Korea
 
-Link: not yet
+[Link](https://kiss.kstudy.com/Detail/Ar?key=4096965)
 
-github(will be updated): https://github.com/masterOfSoongsilTYoon/WESAD_Clustered_FL
+github: https://github.com/masterOfSoongsilTYoon/WESAD_Clustered_FL
+
+##### 2. Clustered Federated Learning Based on Number of Samples Mahalanobis Distance in Sequence Data for Medical Area(JIPs)
+
+Committee: JOURNAL OF INFORMATION PROCESSING SYSTEMS
+
+[Link]: will be updated
+
+github: https://github.com/masterOfSoongsilTYoon/Paper_of_JIPs
 
 __Thank you for reading my work__
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
 
 <!---
 masterOfSoongsilTYoon/masterOfSoongsilTYoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
