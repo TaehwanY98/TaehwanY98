@@ -2,7 +2,7 @@
 
 ---
 <!-- ![tyoon](res/tyoon.jpg | width=100) -->
-<img src = "./res/tyoon.jpg" width ="100">
+<img src = "./res/tyoon.jpg" width ="100" style="border:5px double black;">
 
 |Category |Main Thema| Sub Thema|
 | --- | --- | --- |
