@@ -1,7 +1,7 @@
 # 윤태환
 
 ---
-![KakaoTalk_20240221_190512691.jpg](res/tyoon.jpg){width=100pt}
+![tyoon](res/tyoon.jpg){width=100pt}
 |Category |Main Thema| Sub Thema|
 | --- | --- | --- |
 | 🏫**scholar** | Soongsil University | MSc and PhD |
