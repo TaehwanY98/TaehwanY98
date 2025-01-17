@@ -22,6 +22,8 @@ Paper Link
 
 [Subnet based Federated Learning for Protecting Global Model](https://doi.org/10.3745/PKIPS.y2024m10a.701)
 
+[Privacy Preserving Voice Phishing Detection using Federated Learning](https://doi.org/10.3745/PKIPS.y2024m10a.356)
+
 will be updated paper
     
     FedRef: Federated Learning on a Reference Model for Medical Vision [MICCAI 2025]
