@@ -1,7 +1,9 @@
 # 윤태환
 
 ---
-![tyoon](res/tyoon.jpg | width=100)
+<!-- ![tyoon](res/tyoon.jpg | width=100) -->
+<img src = "./res/tyoon.jpg" width ="100">
+
 |Category |Main Thema| Sub Thema|
 | --- | --- | --- |
 | 🏫**scholar** | Soongsil University | MSc and PhD |
