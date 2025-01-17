@@ -1,4 +1,4 @@
-# 윤태환
+# Taehwan Yoon
 
 ---
 <!-- ![tyoon](res/tyoon.jpg | width=100) -->
