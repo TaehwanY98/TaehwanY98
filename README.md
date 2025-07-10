@@ -24,8 +24,7 @@ Paper Link
 
 [Privacy Preserving Voice Phishing Detection using Federated Learning](https://doi.org/10.3745/PKIPS.y2024m10a.356)
 
+[FedRef: Communication Efficient Bayesian Fine Tuning with Reference Model](https://arxiv.org/abs/2506.23210)
 will be updated paper
-    
-    FedRef: Federated Learning on a Reference Model for Medical Vision [MICCAI 2025]
-    Clustered Federated Learning Based on Number of Samples Mahalanobis Distance in Sequence Data for Medical Area(JIPs)
+    Clustered Federated Learning Based on Mahalanobis Distance for Sequential Medical Data (JIPs)
 
