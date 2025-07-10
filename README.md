@@ -2,7 +2,7 @@
 
 ---
 <!-- ![tyoon](res/tyoon.jpg | width=100) -->
-<img src = "./res/tyoon.jpg" width ="100" style="border:5px double black;">
+<img src = "./res/Thyoon_CV1.jpg" width ="800pt" style="border:5px double black;">
 
 |Category |Main Thema| Sub Thema|
 | --- | --- | --- |
@@ -10,8 +10,8 @@
 | 📬  **Mail** | dbs1045@soongsil.ac.kr | taehwanyun0@gmail.com |
 | 📱**Phone** | Privacy |  |
 | 🧑🏻‍💻   **Link** | Notion(ready) | [DILab](https://dilab.ssu.ac.kr/) |
-| 🧑🏻‍💼**Major** | Federated Learning for privacy, Medical Analysis | FL, DL(Deep Learning), ML, Medical vision and data analysis |
-| ⚽**Hobby** | 👨🏻‍💻Coding | ⛪church |
+| 🧑🏻‍💼**Major** | Preserving-privacy ML, Healthcare Analysis | Federated-Learning, Model Optimization, Legion Detection, LLM |
+| ⚽**Hobby** | 👨🏻‍💻Coding | ⛪Christian |
 
 
 Paper Link
