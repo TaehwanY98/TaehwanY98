@@ -7,8 +7,6 @@
 |Category |Main Thema| Sub Thema|
 | --- | --- | --- |
 | 🏫**scholar** | Soongsil University | MSc and PhD |
-| 📬  **Mail** | dbs1045@soongsil.ac.kr | taehwanyun0@gmail.com |
-| 📱**Phone** | Privacy |  |
 | 🧑🏻‍💻   **Link** | Notion(ready) | [DILab](https://dilab.ssu.ac.kr/) |
 | 🧑🏻‍💼**Major** | Preserving-privacy ML, Healthcare Analysis | Federated-Learning, Model Optimization, Legion Detection, LLM |
 | ⚽**Hobby** | 👨🏻‍💻Coding | ⛪Christian |
