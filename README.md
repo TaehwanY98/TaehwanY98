@@ -24,6 +24,5 @@ Paper Link
 
 [FedRef: Communication Efficient Bayesian Fine Tuning with Reference Model](https://arxiv.org/abs/2506.23210)
 
-will be updated paper
-    Clustered Federated Learning Based on Mahalanobis Distance for Sequential Medical Data (JIPs)
+[Clustered Federated Learning Based on Mahalanobis Distance for Sequential Medical Data (JIPs)](https://doi.org/10.3745/JIPS.03.0211)
 
