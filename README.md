@@ -4,12 +4,12 @@
 <!-- ![tyoon](res/tyoon.jpg | width=100) -->
 <img src = "./res/Thyoon_CV1.jpg" width ="800pt" style="border:5px double black;">
 
-|Category |Main Thema| Sub Thema|
+|Category |Main | Sub |
 | --- | --- | --- |
 | 🏫**scholar** | Soongsil University | MSc and PhD |
-| 🧑🏻‍💻   **Link** | Notion(ready) | [DILab](https://dilab.ssu.ac.kr/) |
-| 🧑🏻‍💼**Major** | Preserving-privacy ML, Healthcare Analysis | Federated-Learning, Model Optimization, Legion Detection, LLM |
-| ⚽**Hobby** | 👨🏻‍💻Coding | ⛪Christian |
+| 🧑🏻‍💻   **Link** | Resume | [LinkedIn](www.linkedin.com/in/taehwan-yoon-4418272a7) |
+| 🧑🏻‍💼**Major** | Preserving-privacy ML, Healthcare Analysis | Federated-Learning, Parameter-Efficient Fine-Tuning, Communication-Efficient Fine-Tuning, Language Model|
+| ⚽**Hobby** | 👨🏻‍💻Coding | ⚽Running |
 
 
 Paper Link
