@@ -2,7 +2,7 @@
 
 ---
 <!-- ![tyoon](res/tyoon.jpg | width=100) -->
-<img src = "./res/Thyoon_CV1.jpg" width ="700pt" style="width: 700pt; height: 700pt; object-fit: cover; object-position: top;"><img src = "./res/Thyoon_CV2.jpg" width ="700pt" style="width: 700pt; height: 700pt; object-fit: cover; object-position: top;">
+<img src = "./res/Thyoon_CV1.jpg" style="width: \linewidth; height: \lineheight; object-fit: cover; object-position: top;"><img src = "./res/Thyoon_CV2.jpg" style="width: \linewidth; height: \lineheight; object-fit: cover; object-position: top;">
 
 |Category |Main | Sub |
 | --- | --- | --- |
