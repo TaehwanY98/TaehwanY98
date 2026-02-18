@@ -1,8 +1,11 @@
 # Taehwan Yoon
 
----
+------
 <!-- ![tyoon](res/tyoon.jpg | width=100) -->
-<img src = "./res/Thyoon_CV1.jpg" style="width: \linewidth; height: \lineheight; object-fit: cover; object-position: top;"><img src = "./res/Thyoon_CV2.jpg" style="width: \linewidth; height: \lineheight; object-fit: cover; object-position: top;">
+<img src = "./res/Thyoon_CV1.jpg" style="width: \linewidth; height: \lineheight; object-fit: cover; object-position: top;">
+<img src = "./res/Thyoon_CV2.jpg" style="width: \linewidth; height: \lineheight; object-fit: cover; object-position: top;">
+
+---
 
 |Category |Main | Sub |
 | --- | --- | --- |
@@ -10,6 +13,7 @@
 | 🧑🏻‍💻   **Link** | Resume | [LinkedIn](http://www.linkedin.com/in/taehwan-yoon-4418272a7) |
 | 🧑🏻‍💼**Major** | Preserving-privacy ML, Healthcare Analysis | Federated-Learning, Parameter-Efficient Fine-Tuning, Communication-Efficient Fine-Tuning, Language Model|
 | ⚽**Hobby** | 👨🏻‍💻Coding | ⚽Running |
+
 
 
 Paper Link
