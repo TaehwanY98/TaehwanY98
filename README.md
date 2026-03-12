@@ -10,7 +10,7 @@
 |Category |Main | Sub |
 | --- | --- | --- |
 | 🏫**scholar** | Soongsil University | MSc and PhD |
-| 🧑🏻‍💻   **Link** | Resume | [LinkedIn](http://www.linkedin.com/in/taehwan-yoon-4418272a7) |
+| 🧑🏻‍💻   **Link** | [Notion](https://resonant-saffron-77f.notion.site/Taehwan-Yoon-032fab09337d838fbd7c01375a84ecea?source=copy_link) | [LinkedIn](http://www.linkedin.com/in/taehwan-yoon-4418272a7) |
 | 🧑🏻‍💼**Major** | Preserving-privacy ML, Healthcare Analysis | Federated-Learning, Parameter-Efficient Fine-Tuning, Communication-Efficient Fine-Tuning, Language Model|
 | ⚽**Hobby** | 👨🏻‍💻Coding | ⚽Running |
 
